@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Frente Brasil Contra a Devastação
+message: "Se utilizar este material em pesquisas, cite este repositório."
+authors:
+  - family-names: "Devastação"
+    given-names: "Frente Brasil Contra"
+repository-code: "https://github.com/frente-brasil-contra-a-devastacao/frente-brasil-contra-a-devastacao"
+license: "CC-BY-SA-4.0"
